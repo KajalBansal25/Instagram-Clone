@@ -1,0 +1,338 @@
+.container,
+.nothavingaccount,
+.containersignup,
+.havingaccount,
+.containerreset,
+.containerresett {
+  text-align: center;
+  border: 1px solid grey;
+  width: 348px;
+  /* height: 360px; */
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+}
+.heading {
+  margin: 22px 86.5px 12 px;
+}
+.username,
+.password,
+.fullname,
+.username,
+.mobilenumber {
+  width: 300px;
+  padding: 10px;
+  font-size: large;
+  border: 1px solid grey;
+  /* outline: darkgray; */
+  border-radius: 2px;
+  margin-bottom: 10px;
+}
+
+.horizontal {
+  width: 50%;
+  margin: 30px 20px;
+}
+
+.login,
+.signup,
+.backtologin {
+  font-size: large;
+  width: 330px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  padding: 10px;
+  background-color: rgb(194, 231, 231);
+  outline: darkgray;
+  border: none;
+  border-radius: 2px;
+}
+.or {
+  padding: 10px;
+  margin: 20px;
+}
+.forgot {
+  text-decoration: none;
+  margin-bottom: 10px;
+}
+.nothavingaccount,
+.havingaccount {
+  margin-top: 20px;
+  height: 100px;
+}
+.nothavingaccount p,
+.havingaccount p {
+  margin-top: 30px;
+}
+.signuptosee p,
+.enteruremail p {
+  font-size: larger;
+  padding: 0px 30px;
+  color: grey;
+  /* margin-bottom: -10px; */
+}
+.bysigningup p {
+  font-size: small;
+  padding: 0px 30px;
+  color: grey;
+}
+
+.resetimg {
+  height: 100px;
+  width: 100px;
+  margin-top: 20px;
+}
+.enteruremail p {
+  font-size: small;
+}
+.backtologin {
+  margin-top: 105px;
+  width: 348px;
+}
+.nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0% 25%;
+}
+
+.middle input {
+  padding: 10px;
+  font-size: large;
+}
+.icon {
+  margin: 10px;
+}
+.profile {
+  height: 24px;
+  width: 24px;
+}
+.profileX {
+  position: relative;
+}
+.right {
+  display: flex;
+  align-items: center;
+}
+
+.containerofprofile,
+.postcontainer {
+  margin: 0% 25%;
+}
+.postcontainer {
+  border: 1px solid grey;
+  margin-bottom: 30px;
+}
+.postnamecontainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 20px;
+}
+
+.personId {
+  width: 100%;
+}
+.profileofpost {
+  width: 50px;
+}
+.postandname {
+  display: flex;
+  align-items: center;
+  font-size: 30px;
+}
+.main {
+  border-bottom: 1px solid grey;
+  border-top: 1px solid grey;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.postsvideo {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin: 0% 35%;
+}
+.profileimgcontainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.profileimg {
+  width: 100px;
+}
+.profilecontainerone,
+.follower,
+.nameofaccountholder {
+  display: flex;
+  align-items: center;
+  padding: 0px 100px;
+  margin: 20px 30px;
+}
+.name,
+.edit,
+.setting {
+  padding: 2px 30px;
+}
+.name {
+  font-size: 40px;
+}
+.edit {
+  font-size: 20px;
+}
+.setting {
+  width: 30px;
+}
+.posts,
+.followers,
+.following {
+  padding: 2px 40px;
+  font-size: 20px;
+}
+.imgcontainer1 {
+  display: flex;
+  align-items: center;
+}
+.nameofaccountholder {
+  font-size: 20px;
+  padding: 2px 140px;
+}
+.postss,
+.videos,
+.saved,
+.tagged {
+  font-size: 20px;
+  padding: 5px 20px;
+}
+
+.imgcontainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.imgcontainer img {
+  height: 250px;
+  width: 250px;
+  margin: 20px;
+}
+.commentsandposts {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  /* margin: 20px; */
+  border-bottom: 2px solid grey;
+}
+.commentsandpostsoneicon {
+  padding: 5px 10px;
+}
+._8-yf5 {
+  padding-right: 10px;
+}
+.profilecommentcontent p {
+  padding-left: 10px;
+}
+.profilecomment {
+  width: 30px;
+  padding: 0px 10px;
+}
+.commentsandpoststwo {
+  margin-top: -180px;
+}
+.commentsection {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+}
+.profilecommentcontentimgpara {
+  display: flex;
+  align-items: center;
+}
+.commentsectionleft input {
+  padding: 8px;
+  font-size: large;
+  width: 700px;
+}
+.commentsectionright {
+  padding: 10px 20px;
+}
+.section {
+  /* width:10%; */
+  border: 2px solid grey;
+  position: absolute;
+  top: 0;
+  margin-top: 100%;
+  background-color: white;
+}
+.sectionone {
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid grey;
+  padding: 20px;
+}
+.imgprofile {
+  width: 30px;
+}
+.logout {
+  padding: 20px;
+}
+.uploadpost,
+.createnewpost {
+  margin: 0% 25%;
+  border: 1px solid grey;
+  text-align: center;
+}
+.part {
+  text-align: center;
+  margin: 20px 0px;
+}
+.partone {
+  padding: 10px;
+  font-size: 20px;
+  border-bottom: 1px solid grey;
+}
+.parttwo {
+  padding: 200px;
+}
+.parttwo button {
+  background: rgb(17, 149, 158);
+  padding: 10px 20px;
+}
+.createnewpostshare,
+.createnewpostsection,
+.createnewpostsectiontwoone {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  /* padding: 0px 10px; */
+  font-size: 30px;
+  border-bottom: 1px solid grey;
+  padding: 10px;
+}
+.createnewpostshare p {
+  margin-left: 200px;
+}
+.createnewpostsectionone {
+  border-right: 1px solid grey;
+  padding-right: 200px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  /* margin:20px; */
+  padding-left: 100px;
+}
+.createnewpost {
+  background-color: white;
+  border-radius: 20px;
+  margin-top: -400px;
+  /* padding: 20px; */
+  /* margin-left:-700px; */
+  /* width:51% ; */
+  /* margin-top:25px */
+}
+.createnewpostsectiontwo {
+  padding: 20px;
+}
